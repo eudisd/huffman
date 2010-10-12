@@ -7,4 +7,3 @@ must be provided.
 A quick caveat: very small files would actually grow in size when compressed.
 This is because I store a header on the compressed file.
 
-The included binary works under Linux.  Specifically, under Ubuntu.
