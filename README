@@ -5,5 +5,5 @@ that in order to have appropriate compression ratios, textual data
 must be provided.
 
 A quick caveat: very small files would actually grow in size when compressed.
-This is because I store a header on the compressed file.
+This is because a header is stored in the compressed file.
 
