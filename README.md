@@ -1,3 +1,7 @@
+README
+======
+Huffman Compiler (C++)
+----------------------
 
 This program uses the huffman algorithm to compress files.  
 The huffman algorithm itself works best on textual data, and so it holds
